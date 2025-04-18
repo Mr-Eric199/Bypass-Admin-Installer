@@ -1,5 +1,5 @@
 # Bypass-Admin-Installer
-A Windows Batch script that bypasses admin rights requirements for software installers by leveraging the RunAsInvoker compatibility layer. It includes a user-friendly file picker, digital signature validation, timestamped logging, and post-installation checks — providing a safer and more controlled way to attempt installations without full admin permissions.
+A Windows Batch script that bypasses admin rights requirements for software installers by leveraging the RunAsInvoker compatibility layer. It includes a user-friendly file picker, digital signature validation, timestamped logging, and post-installation checks providing a safer and more controlled way to attempt installations without full admin permissions.
 
 
 📌 Features
